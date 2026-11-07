@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vamsi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-07T21:59:12.268319617Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a606992d542fbb1fd48cfdd231d2f4be0a45bd81af30a674009ffe496f83064
+    name: vamsi
+    type: application
+    urls:
+    - vamsi-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-07T21:59:12.267562336Z"
